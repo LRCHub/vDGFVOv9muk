@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "心に穴が空いた",
+  "base_artist": "Yorushika",
+  "createdAt": "2025-12-08T16:43:26.968857Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "心に穴が空いた",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/01_心に穴が空いた_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "心に穴が空いた",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/02_心に穴が空いた_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "心に穴が空いた",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/03_心に穴が空いた_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "心に穴が空いた (Hole In The Heart)",
+      "artist": "Yorushika",
+      "has_synced": true,
+      "path": "select/04_心に穴が空いた_(Hole_In_The_Heart)_Yorushika.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "心に穴が空いた (「月光」 LIVE ver.)",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/05_心に穴が空いた_(「月光」_LIVE_ver.)_ヨルシカ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "心に穴が空いた",
+      "artist": "Yorushika",
+      "has_synced": false,
+      "path": "select/pl_01_心に穴が空いた_Yorushika.txt"
+    }
+  ]
+}
